@@ -1,5 +1,6 @@
 #include "Funcrions.h"
 
+
 PROCESSENTRY32 Proc;
 
 HANDLE hProcess, hThread = NULL;
